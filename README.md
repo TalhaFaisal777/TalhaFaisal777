@@ -1,28 +1,15 @@
-# Hi, I'm Talha 👋
+# Talha Faisal
 
-Full-stack engineer (3+ years) building production SaaS in **TypeScript, React, Next.js and Node.js**. Open to remote roles.
+Full-stack developer from Lahore. I mostly write TypeScript, React, Next.js and Node.
 
-- **Now:** building features for **[Ably](https://ably.com)**'s website and developer console (contract): integrations UI including the Datadog integration, MAU-based pricing and billing UI, auth and business-account flows.
-- **Before:** at **Pabyte** I worked mainly on **[GoToBeat](https://www.gotobeat.com)**, a live music promoter and ticketing platform in the UK and Europe: Facebook Marketing API and Songstats integrations with sync and backfill jobs, admin dashboards, Stripe checkout, Remix + TypeScript on AWS.
-- **On the side:** AI research tools with LLM tool calling and n8n, and websites for small businesses.
+Right now I work on Ably's website and developer console: the integrations page, the billing and usage screens, and auth. Before that I was at Pabyte, mostly on [GoToBeat](https://www.gotobeat.com), a live music and ticketing platform in the UK and Europe. There I did the Facebook Marketing API and Songstats integrations, the admin dashboards and the Stripe checkout.
 
-## Tech
+Most of my work over the last few years sits in private company repos, so this is the stuff I can share:
 
-- **Frontend:** TypeScript, React, Next.js (App Router), Remix, Tailwind CSS, shadcn/ui, Radix UI
-- **Backend:** Node.js, Express, REST APIs, webhooks, PostgreSQL, Supabase, DynamoDB
-- **Cloud & tools:** AWS (SST, CloudFront), Vercel, Cloudflare (Pages, Workers, KV), Stripe, Playwright
-- **AI:** Claude and OpenAI APIs, tool calling, structured JSON output, n8n
+- **[upwarddigital-site](https://github.com/TalhaFaisal777/upwarddigital-site)** - agency website with lead forms, an admin page and a small blog CMS, running on Cloudflare Pages and KV. Live at [upwarddigitalco.com](https://upwarddigitalco.com)
+- **[FreshAirDuct](https://github.com/TalhaFaisal777/FreshAirDuct)** - website for a duct cleaning business. React and TypeScript, with a quote form validated by Zod
+- **[Elite-Space](https://github.com/TalhaFaisal777/Elite-Space)** - furniture store landing page in Next.js 16 and Tailwind v4
 
-## Selected public projects
+Tools I use day to day: TypeScript, React, Next.js, Remix, Node, Postgres, Supabase, DynamoDB, Stripe, AWS, Vercel, Cloudflare.
 
-| Project | What it is | Stack |
-|---|---|---|
-| [upwarddigital-site](https://github.com/TalhaFaisal777/upwarddigital-site) | Agency website with lead forms, admin panel and blog CMS on Cloudflare ([live](https://upwarddigitalco.com)) | React, Vite, Cloudflare Pages Functions, KV, Resend |
-| [FreshAirDuct](https://github.com/TalhaFaisal777/FreshAirDuct) | Business website with a validated quote form | React, TypeScript, Vite, React Hook Form, Zod |
-| [Elite-Space](https://github.com/TalhaFaisal777/Elite-Space) | Furniture store landing page | Next.js 16, React 19, Tailwind v4 |
-
-Most of my professional work lives in private client codebases.
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/talha-faisaldev) · faisaltalha103@gmail.com
+I'm open to remote full-stack roles. You can reach me on [LinkedIn](https://www.linkedin.com/in/talha-faisaldev) or at faisaltalha103@gmail.com.
