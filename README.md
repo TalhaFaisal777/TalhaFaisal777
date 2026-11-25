@@ -8,10 +8,10 @@ Full-stack engineer (3+ years) building production SaaS in **TypeScript, React, 
 
 ## Tech
 
-**Frontend:** TypeScript, React, Next.js (App Router), Remix, Tailwind CSS, shadcn/ui, Radix UI
-**Backend:** Node.js, Express, REST APIs, webhooks, PostgreSQL, Supabase, DynamoDB
-**Cloud & tools:** AWS (SST, CloudFront), Vercel, Cloudflare (Pages, Workers, KV), Stripe, Playwright
-**AI:** Claude and OpenAI APIs, tool calling, structured JSON output, n8n
+- **Frontend:** TypeScript, React, Next.js (App Router), Remix, Tailwind CSS, shadcn/ui, Radix UI
+- **Backend:** Node.js, Express, REST APIs, webhooks, PostgreSQL, Supabase, DynamoDB
+- **Cloud & tools:** AWS (SST, CloudFront), Vercel, Cloudflare (Pages, Workers, KV), Stripe, Playwright
+- **AI:** Claude and OpenAI APIs, tool calling, structured JSON output, n8n
 
 ## Selected public projects
 
