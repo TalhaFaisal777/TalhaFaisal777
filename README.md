@@ -10,6 +10,6 @@ Most of my work over the last few years sits in private company repos, so this i
 - **[FreshAirDuct](https://github.com/TalhaFaisal777/FreshAirDuct)** - website for a duct cleaning business. React and TypeScript, with a quote form validated by Zod
 - **[Elite-Space](https://github.com/TalhaFaisal777/Elite-Space)** - furniture store landing page in Next.js 16 and Tailwind v4
 
-Tools I use day to day: TypeScript, React, Next.js, Remix, Node, Postgres, Supabase, DynamoDB, Stripe, AWS, Vercel, Cloudflare.
+Tools I use day to day: TypeScript, React, Next.js, Remix, TanStack, Node, Postgres, Supabase, DynamoDB and Stripe. For hosting and backend I've worked with AWS (SST, Lambda, CloudFront), Cloudflare (Pages, Workers, KV) and Vercel, mostly serverless. I've also worked with headless CMSs like Contentful and Ghost, and on the SEO side of websites.
 
 I'm open to remote full-stack roles. You can reach me on [LinkedIn](https://www.linkedin.com/in/talha-faisaldev) or at faisaltalha103@gmail.com.
